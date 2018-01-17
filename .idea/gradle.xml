@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/errorutil" />
             <option value="$PROJECT_DIR$/logutil" />
+            <option value="$PROJECT_DIR$/utilita" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

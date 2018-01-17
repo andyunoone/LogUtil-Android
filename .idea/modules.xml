@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/errorutil/errorutil.iml" filepath="$PROJECT_DIR$/errorutil/errorutil.iml" />
       <module fileurl="file://$PROJECT_DIR$/logutil/logutil.iml" filepath="$PROJECT_DIR$/logutil/logutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilita/utilita.iml" filepath="$PROJECT_DIR$/utilita/utilita.iml" />
     </modules>
   </component>
 </project>

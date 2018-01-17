@@ -3,6 +3,7 @@ package unoone.logutilexample;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import unoone.errorutil.ErrorDebug;
 import unoone.logutil.LogDebug;
 
 public class MainActivity extends AppCompatActivity {
@@ -13,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         LogDebug.d("Test debug");
+
+        ErrorDebug.e("Test Error");
     }
 }
